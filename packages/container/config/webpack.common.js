@@ -1,5 +1,5 @@
 const HtmlWebpackPlugin = require("html-webpack-plugin");
-// Common modules
+
 module.exports = {
   module: {
     rules: [
